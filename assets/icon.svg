@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img">
+  <title>Atempo — master</title>
+  <desc>Atempo app icon, Cadence A (01). Symmetric rounded A-arch / 0.1Hz breath wave with fermata beat dot on a 1024x1024 canvas.</desc>
+  <rect width="1024" height="1024" fill="#F8F5EF"/>
+  <path d="M 272 742 C 336 538, 396 266, 512 266 C 628 266, 688 538, 752 742" fill="none" stroke="#2F2923" stroke-width="68" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="512" cy="596" r="64" fill="#6FA878"/>
+</svg>
